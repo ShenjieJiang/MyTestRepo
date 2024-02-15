@@ -1,0 +1,49 @@
+# 编译生成的文件
+*.class
+*.o
+*.a
+*.obj
+*.exe
+*.dll
+*.so
+*.jar
+*.war
+*.ear
+*.pyc
+*.pyo
+*.pyd
+*.bin
+*.hex
+
+# IDE 和编辑器生成的临时文件
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# 日志文件
+*.log
+
+# 备份文件
+*~
+*.bak
+*.old
+backup-*
+
+# 依赖库和包管理器生成的文件
+node_modules/
+vendor/
+packages/
+libs/
+dist/
+
+# 临时目录
+tmp/
+temp/
+cache/
+
+# 系统和编辑器生成的文件
+.DS_Store
+Thumbs.db
